@@ -3,9 +3,8 @@ package com.circle.reflection.dynamicproxy;
 import com.circle.reflection.Book;
 
 /**
- * @Author KeWeiYang
- * @Date 2018/2/28 14:03
- * @DES
+ * @author KeWeiYang
+ * @date 2018/2/28 14:03
  */
 public class BookDaoImpl implements BookDao {
 

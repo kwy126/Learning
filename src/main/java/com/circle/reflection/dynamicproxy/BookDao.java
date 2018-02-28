@@ -3,7 +3,7 @@ package com.circle.reflection.dynamicproxy;
 import com.circle.reflection.Book;
 
 /**
- *  @Author KeWeiYang
+ * @author KeWeiYang
  */
 public interface BookDao {
      /**
